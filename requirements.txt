@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+joblib
+# IMPORTANT: must match the version used in Colab when the .joblib was saved
+scikit-learn==1.6.1
